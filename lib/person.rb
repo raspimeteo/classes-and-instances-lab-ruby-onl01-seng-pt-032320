@@ -2,5 +2,5 @@ class Person
   
 end
 
-adele_goldberg = new.Person
+adele_goldberg = .Personnew
 alan_kay = new.Person
